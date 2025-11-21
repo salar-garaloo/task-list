@@ -50,7 +50,7 @@ barname_nvisi=task("python","python jame jadi ro yad migiram","kheili mohm")
 pool_darbiarm=task("khoshnam","onja bastani mifrosham v zorat mizanam","mohm")
 enarxi=task("gahve","badastgah esperso sazm gahve dorost konm","ziad mohm nist")
 fotsaal=task("salon","miram ta fitsal bazi bokonam","mohm nis")
-
+zibayi=task("brm arayeshgah","miram arayeshgah pish sajad bartar","mohm")
 
 
 
