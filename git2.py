@@ -10,5 +10,5 @@ def sasa(*args):
     
 
 
-zoj=sasa(10,5,8,16,9,7,88,74,99,126,33,43)
+zoj=sasa(10,5,8,16,9,7,88,74,99,126,33,43,63,79,49,4,6)
 print( f"list adad hay zoj be sharh zir mibashd {zoj}")
